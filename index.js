@@ -4,6 +4,8 @@ async function main() {
   const fs = require("fs");
   const { Circle, Square, Triangle } = require("./lib/shapes");
 
+
+  //prompts
 const questions = [
     {
         type: 'list',
@@ -28,6 +30,8 @@ const questions = [
     },
 ];
 
+
+//SVG logo class 
 class SVG { //use this class for later in init function
     constructor () {
         this.textEl = '';
@@ -51,6 +55,7 @@ class SVG { //use this class for later in init function
     }
 }
 
+// main function of the code to make it all work and link together
 function init() {
     prompt(questions) //prompt function from inquirer inherit from questions array argument
     .then((data) => { //call back function to the promise, users's answers are passed to the callback funstion as argument data
