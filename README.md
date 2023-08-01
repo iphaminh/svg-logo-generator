@@ -16,8 +16,9 @@ To start the application, run `node index.js` in your terminal and follow the pr
 
 ## Screenshots
 
-
-
+![Alt text](<assets/Screenshot 2023-07-31 at 9.41.11 PM.png>)
+![Alt text](<assets/Screenshot 2023-07-31 at 10.10.00 PM.png>)
+![Alt text](<assets/Screenshot 2023-07-31 at 10.14.04 PM.png>)
 ## Demo Video
 
 https://drive.google.com/file/d/1hQGWRm5xmEr2ErzZ8cF3n4PG9V8ucMmn/view
