@@ -20,7 +20,13 @@ To start the application, run `node index.js` in your terminal and follow the pr
 
 ## Demo Video
 
+https://drive.google.com/file/d/1_RXiLpiwc1xM0NJ_W85j810HbhLdq5jF/view
 
+## GitHub Link 
+
+https://github.com/iphaminh/svg-logo-generator
+
+https://iphaminh.github.io/svg-logo-generator/
 
 ## Contributing
 
