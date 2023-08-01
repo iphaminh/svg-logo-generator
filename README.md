@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1hQGWRm5xmEr2ErzZ8cF3n4PG9V8ucMmn/view
 
 ## GitHub Link 
 
-https://github.com/iphaminh/svg-logo-generator
+https://iphaminh.github.io/svg-logo-generator/
 
 https://iphaminh.github.io/svg-logo-generator/
 
